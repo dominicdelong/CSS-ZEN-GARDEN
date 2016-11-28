@@ -13,7 +13,9 @@ header{
   color:white;
   font-family: 'Bungee Inline', cursive;
   letter-spacing: 10px;
-  background-image: url("https://source.unsplash.com/1600x1500/?beach");   
+  background-image: url("https://source.unsplash.com/1600x1500/?beach");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h2{
